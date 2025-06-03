@@ -1,0 +1,2 @@
+# CPU Pipeline Cache Simulator
+C-based pipeline cache simulator for a MIPS-like architecture, accurately modeling direct-mapped and set-associative caches with varying block sizes, LRU replacement, and write-back/write-through policies. Parsed memory access traces and computed detailed hit/miss statistics, demonstrating an in-depth understanding of memory hierarchies, performance tradeoffs, and systems-level simulation
